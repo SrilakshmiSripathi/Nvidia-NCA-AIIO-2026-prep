@@ -1,4 +1,4 @@
-[In Progress]
+[In Progress] - unorganized
 
 NvLink
 
@@ -50,12 +50,23 @@ backpropagation
 
 BlueField-3 DPUs
 
+DPU
+
 
 Base Command Manager's orchestration - bot hslurm and k8 
 
 OOM errors
 
 DCGM
+
+
+RDMA
+
+RoCE
+
+DOCA
+
+
 
 
 
